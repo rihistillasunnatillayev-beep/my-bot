@@ -1,3 +1,7 @@
+import os
+
+TOKEN = os.getenv("TOKEN")
+
 BOT_TOKEN = "8398537681:AAFqfG-SXJfQPwCjVLHjYONLpn10K1Q_DKY"
 CHANNEL_USERNAME = "taallumat_arabtili"
 ADMIN_ID = 6319166883
