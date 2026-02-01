@@ -1,8 +1,6 @@
 import os
 
-TOKEN = os.getenv("TOKEN")
-
-BOT_TOKEN = "8398537681:AAFqfG-SXJfQPwCjVLHjYONLpn10K1Q_DKY"
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHANNEL_USERNAME = "taallumat_arabtili"
-ADMIN_ID = 6319166883
 ADMIN_USERNAME = "solikhova_sh"
+ADMIN_ID = 6319166883
