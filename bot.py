@@ -1,4 +1,5 @@
 import logging
+from config import TOKEN
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from config import BOT_TOKEN, CHANNEL_USERNAME, ADMIN_USERNAME
